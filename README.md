@@ -10,3 +10,13 @@ DLL sideloading with Chrome (not quite sure how it was able to put something in 
 Not a lot of work to prevent once the person is already inside the network.
 
 The Honeypot: Just wait until one internal tool enumerates the servers and tries. [Anantis](https://anantis.io)
+
+## iac, Kubernetes chez Piguet Galland
+e-Banking project.
+
+Infrastructure as code, Terraform.
+
+- Pipeline must be the only way to deploy
+- Can have temporary higher temporary privileges to troubleshoot
+
+[tflint](https://github.com/terraform-linters/tflint), [checkov](https://www.checkov.io)
