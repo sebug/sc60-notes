@@ -43,3 +43,6 @@ Custom resource definition for external secrets. [External Secret Operator](http
 How to store the secret for the secrets operator? [SOPS](https://github.com/getsops/sops)
 
 For consistency: [Kyverno](https://kyverno.io)
+
+Encrypt connection within Kubernetes between pods: [Istio](https://istio.io). Ambient mode - all connection is intercepted by ztunnel.
+
