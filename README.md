@@ -33,3 +33,5 @@ Use [Kaniko](https://github.com/GoogleContainerTools/kaniko) to build
 [trivy](https://github.com/aquasecurity/trivy) to scan for vulnerabilities.
 
 Standardized the build with CI/CD Components.
+
+[Renovate](https://docs.renovatebot.com) for dependency updates.
