@@ -6,3 +6,7 @@ Squat a domain, wait a few weeks.
 Use a .lnk file with a PDF icon.
 Hidden directory: .metadata
 DLL sideloading with Chrome (not quite sure how it was able to put something in the same directory, have to ask).
+
+Not a lot of work to prevent once the person is already inside the network.
+
+The Honeypot: Just wait until one internal tool enumerates the servers and tries.
