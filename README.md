@@ -46,3 +46,4 @@ For consistency: [Kyverno](https://kyverno.io)
 
 Encrypt connection within Kubernetes between pods: [Istio](https://istio.io). Ambient mode - all connection is intercepted by ztunnel.
 
+Lock down connections: AuthorizationPolicy, identity-based security.
