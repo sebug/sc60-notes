@@ -41,3 +41,5 @@ ArgoCD on the Kubernetes cluster do deploy the containers.
 Custom resource definition for external secrets. [External Secret Operator](https://external-secrets.io/latest/) 
 
 How to store the secret for the secrets operator? [SOPS](https://github.com/getsops/sops)
+
+For consistency: [Kyverno](https://kyverno.io)
