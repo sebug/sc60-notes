@@ -35,3 +35,9 @@ Use [Kaniko](https://github.com/GoogleContainerTools/kaniko) to build
 Standardized the build with CI/CD Components.
 
 [Renovate](https://docs.renovatebot.com) for dependency updates.
+
+ArgoCD on the Kubernetes cluster do deploy the containers.
+
+Custom resource definition for external secrets. [External Secret Operator](https://external-secrets.io/latest/) 
+
+How to store the secret for the secrets operator? [SOPS](https://github.com/getsops/sops)
