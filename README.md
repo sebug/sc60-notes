@@ -9,4 +9,4 @@ DLL sideloading with Chrome (not quite sure how it was able to put something in 
 
 Not a lot of work to prevent once the person is already inside the network.
 
-The Honeypot: Just wait until one internal tool enumerates the servers and tries.
+The Honeypot: Just wait until one internal tool enumerates the servers and tries. [Anantis](https://anantis.io)
